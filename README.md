@@ -1,4 +1,4 @@
-Linguagens que eu sei utilizar
+##Linguagens que eu sei utilizar
 
 <div style="display: inline_block; align: center;"><br/>
   <img alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
